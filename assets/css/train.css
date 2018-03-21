@@ -1,0 +1,40 @@
+.jumbotron {
+    background-color: rgb(13, 14, 78);
+    color: white;
+    text-align: center;
+    
+}
+
+.display-4 {
+    font-weight: 500;
+}
+
+.lead {
+    font-weight: 400;
+}
+
+.card-header {
+    color: white;
+    background-color: steelblue;
+}
+
+.btn-primary {
+    background-color: steelblue;
+    border-color: steelblue;
+}
+
+label {
+    font-weight: bold;
+}
+
+.table {
+ margin-bottom: 0;
+ margin-left: 1%;
+    margin-right: 1%;
+    width: 98%;
+    /* padding-left: 0; */
+}
+
+tbody {
+    width: 98%;
+}
